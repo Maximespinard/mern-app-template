@@ -1,1 +1,1 @@
-# mern-app-template
+# skateapp
